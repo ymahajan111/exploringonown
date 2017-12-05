@@ -1,0 +1,14 @@
+There are certain things which we plan to write on our own in order to increase our understanding of operating system and gain more experience 
+in creating great programs using C++, my favorite language.
+
+1. Write a debugger which can be used to keep a watch on a process running on same machine and then give informaition lile stack entries,
+threads created, time for all the threads and the process has been alive
+
+2. Write a sample application to demonstrate and understand the working of names pipes. how they work and how they will help you understand
+essense of it
+
+3. Write an appilcation which makes use of Sqlite API's which we could use for gain understanding of Sqlite Engine and use C++ AMP to
+accelarate the processing of all the information which is returned from the Sqlite API's.
+
+
+Above is all the stuff which we have planned for the future assignments which we will undertake in the phased manner.
